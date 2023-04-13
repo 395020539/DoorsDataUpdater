@@ -4,24 +4,25 @@
 import json
 import sys
 import os
+from logging_maker import _MyLogger
 
 
 class MyConfig:
     def __init__(self):
         mypath = MyPath()
         self.return_code, self.doors_username, self.doors_password, \
-            self.doors_project_path, self.new_dic_module, self.data_file \
+            self.doors_project_path, self.data_file, self.data_suffix \
             = self.read_config(mypath.config_path, mypath.app_dir, mypath.data_path)
         self.doors_exe_path = r'C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe'
+
 
     def read_config(self, config_path, app_dir, data_path):
         return_code = "0"
         doors_username = ""
         doors_password = ""
         doors_project_path = ""
-        dic_module = ""
+        data_file = ""
         data_suffix = ""
-        new_dic_module = {}
         try:
             with open(config_path, 'r', encoding='utf - 8') as f:
                 print(f)
@@ -29,38 +30,26 @@ class MyConfig:
                 # print(f"json_data = \n{json_data}")
                 doors_username = json_data['doors_username']
                 print(f"doors_username = \n{doors_username}")
+                _MyLogger.log("debug", f"doors_username = {doors_username}")
                 doors_password = json_data['doors_password']
                 print(f"doors_password = \n{doors_password}")
+                _MyLogger.log("debug", f"doors_password = {doors_password}")
                 doors_project_path = "/" + json_data['project_name']
                 print(f"doors_project_path = \n{doors_project_path}")
-                dic_module = json_data['dic_module']
-                # print(f"dict_module = \n{dic_module}")
+                _MyLogger.log("debug", f"doors_project_path = {doors_project_path}")
                 data_suffix = json_data['data_suffix']
                 print(f"data_suffix = \n{data_suffix}")
-                new_dic_module = self.reform_dic_module(dic_module, data_suffix)
-                print(f"new_dic_module = \n{new_dic_module}")
+                _MyLogger.log("debug", f"data_suffix = {data_suffix}")
                 data_file = json_data['data_file']
                 data_file = os.path.join(data_path, data_file)
                 print(f"data_file = \n{data_file}")
+                _MyLogger.log("debug", f"data_file = {data_file}")
         except Exception as e:
             print("An error occurred:", e)
+            _MyLogger.log("error", ("An error occurred:", e))
             return_code = "1"
         finally:
-            return return_code, doors_username, doors_password, doors_project_path, new_dic_module, data_file
-
-    def reform_dic_module(self, ori_dic_module, suffix):
-        """在data module名称后面加上suffix"""
-        new_dic_module = {}
-        if len(ori_dic_module) > 0:
-            if len(suffix) != 0:
-                for key in ori_dic_module:
-                    new_dic_module[key] = ori_dic_module[key] + suffix
-            else:
-                new_dic_module = ori_dic_module
-        else:
-            new_dic_module = ori_dic_module
-        # print("reform_dic_module: ", new_dic_module)
-        return new_dic_module
+            return return_code, doors_username, doors_password, doors_project_path, data_file, data_suffix
 
 
 class MyPath:
@@ -91,6 +80,8 @@ if __name__ == '__main__':
     print("doors_username: ", myconfig.doors_username)
     print("doors_password: ", myconfig.doors_password)
     print("doors_project_path: ", myconfig.doors_project_path)
-    print("new_dic_module: ", myconfig.new_dic_module)
     print("data_file: ", myconfig.data_file)
     print("doors_exe_path: ", myconfig.doors_exe_path)
+    print("data_suffix: ", myconfig.data_suffix)
+
+

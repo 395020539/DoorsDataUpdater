@@ -1,14 +1,18 @@
 import json
 from configuration_reader import MyConfig
+from database_operator import DataBaseOperator
+from logging_maker import _MyLogger
 
 
 class MyDxlCommand:
     def __init__(self):
         myconfig = MyConfig()
         dic_data = self.read_json_data(myconfig.data_file)
-        self.list_dxl_command = self.create_update_dxl(myconfig.doors_project_path, myconfig.new_dic_module, dic_data)
+        path_suffix = myconfig.data_suffix
+        self.list_dxl_command = self.create_update_dxl(myconfig.doors_project_path, dic_data, path_suffix)
 
-    def create_update_dxl(self, doors_project_path, dic_module, dic_data):
+    def create_update_dxl(self, doors_project_path, dic_data, path_suffix):
+        mydbo = DataBaseOperator()
         list_dxl_command_temp = []
         list_dxl_command = []
         print("dic_data len:", len(dic_data))
@@ -36,7 +40,11 @@ class MyDxlCommand:
 
         for key in dic_data:
             print("key = ", key)
-            doors_module = '"{}{}"'.format(doors_project_path, dic_module[key])
+            module_name = key.split("#", 1)[0]
+            data_name = key.split("#", 1)[1]
+            print(f"module_name: {module_name}; data_name: {data_name}")
+            data_module_path = mydbo.query_path(data_name, module_name)
+            doors_module = '"{}{}"'.format(doors_project_path, data_module_path + path_suffix)
             print("doors_module = ", doors_module)
 
             dxl_declare_module = "const string DOORS_MODULE = {}".format(doors_module)
@@ -45,10 +53,11 @@ class MyDxlCommand:
             dxl_declare_data = """
     DATA_NAME = "{}"
     DATA_VALUE = "{}"
-                            """.format(key, dic_data[key])
+                            """.format(data_name, dic_data[key])
 
             dxl_update_date_command = dxl_declare_module + dxl_open_module + dxl_declare_data + dxl_update_data + dxl_end
             print("dxl_update_date_command = ", dxl_update_date_command)
+            _MyLogger.log("debug", ("dxl_update_date_command = ", dxl_update_date_command))
 
             list_dxl_command_temp.append(dxl_update_date_command)
             print("list_dxl_command_temp = ", list_dxl_command_temp)
@@ -64,6 +73,7 @@ class MyDxlCommand:
             # list_dxl_command[index] = new_dxl_command
             list_dxl_command.append(new_dxl_command)
         print("list_dxl_command = \n", list_dxl_command)
+
         return list_dxl_command
 
     def read_json_data(self, data_file):

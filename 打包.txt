@@ -1,0 +1,3 @@
+wr01619
+
+"D:\Program Files\Python\Python310\Scripts\pyinstaller.exe" -F -c -i D:\MyPython\DoorsDataUpdater\icon.ico D:\MyPython\DoorsDataUpdater\dxl_command_sender.py

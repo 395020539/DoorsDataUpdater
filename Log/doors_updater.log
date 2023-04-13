@@ -1,0 +1,85 @@
+2023-04-13 17:06:39,397 DEBUG doors_username = wh01619
+2023-04-13 17:06:39,398 DEBUG doors_password = yzldoors11
+2023-04-13 17:06:39,398 DEBUG doors_project_path = /BHSS_SysEng_DongFengLanTu_Group
+2023-04-13 17:06:39,398 DEBUG data_suffix = 
+2023-04-13 17:06:39,398 DEBUG data_file = D:\MyPython\DoorsDataUpdater\Data\data_json_mytest_mcp.json
+2023-04-13 17:06:39,401 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 104.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:06:39,403 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 104.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:06:39,403 DEBUG doors_username = wh01619
+2023-04-13 17:06:39,403 DEBUG doors_password = yzldoors11
+2023-04-13 17:06:39,404 DEBUG doors_project_path = /BHSS_SysEng_DongFengLanTu_Group
+2023-04-13 17:06:39,404 DEBUG data_suffix = 
+2023-04-13 17:06:39,408 DEBUG data_file = D:\MyPython\DoorsDataUpdater\Data\data_json_mytest_mcp.json
+2023-04-13 17:06:59,418 DEBUG 开始发送第1条
+2023-04-13 17:06:59,418 DEBUG ('dxl_command = \n', b'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 104.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:07:59,425 ERROR Connection timed out.
+2023-04-13 17:08:02,427 ERROR ('An error occurred:', OSError(10056, 'A connect request was made on an already connected socket', None, 10056, None))
+2023-04-13 17:08:05,427 ERROR ('An error occurred:', OSError(10056, 'A connect request was made on an already connected socket', None, 10056, None))
+2023-04-13 17:08:08,429 ERROR ('An error occurred:', OSError(10056, 'A connect request was made on an already connected socket', None, 10056, None))
+2023-04-13 17:08:11,430 ERROR ('An error occurred:', OSError(10056, 'A connect request was made on an already connected socket', None, 10056, None))
+2023-04-13 17:08:14,431 ERROR ('An error occurred:', OSError(10056, 'A connect request was made on an already connected socket', None, 10056, None))
+2023-04-13 17:08:17,432 ERROR ('An error occurred:', OSError(10056, 'A connect request was made on an already connected socket', None, 10056, None))
+2023-04-13 17:08:20,433 ERROR ('An error occurred:', OSError(10056, 'A connect request was made on an already connected socket', None, 10056, None))
+2023-04-13 17:08:23,435 ERROR ('An error occurred:', OSError(10056, 'A connect request was made on an already connected socket', None, 10056, None))
+2023-04-13 17:08:26,437 ERROR ('An error occurred:', OSError(10056, 'A connect request was made on an already connected socket', None, 10056, None))
+2023-04-13 17:08:29,437 ERROR ('Failed to connect to the server after', 10, 'attempts.')
+2023-04-13 17:08:29,437 DEBUG 第1条发送失败
+2023-04-13 17:08:29,437 DEBUG 发送成功0条
+2023-04-13 17:08:29,638 DEBUG 开始发送第2条
+2023-04-13 17:08:29,638 DEBUG ('dxl_command = \n', b'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 104.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:08:38,552 INFO ('Response from server:', '0')
+2023-04-13 17:08:38,553 DEBUG 第2条发送成功
+2023-04-13 17:08:38,553 DEBUG 发送成功1条
+2023-04-13 17:08:38,754 DEBUG 需发送2条，发送成功1条
+2023-04-13 17:08:38,754 INFO 运行耗时: 99.32800000000134 s
+2023-04-13 17:09:29,462 DEBUG doors_username = wh01619
+2023-04-13 17:09:29,463 DEBUG doors_password = yzldoors11
+2023-04-13 17:09:29,463 DEBUG doors_project_path = /BHSS_SysEng_DongFengLanTu_Group
+2023-04-13 17:09:29,463 DEBUG data_suffix = 
+2023-04-13 17:09:29,463 DEBUG data_file = D:\MyPython\DoorsDataUpdater\Data\data_json_mytest_mcp.json
+2023-04-13 17:09:29,466 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:09:29,468 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:09:29,472 DEBUG doors_username = wh01619
+2023-04-13 17:09:29,472 DEBUG doors_password = yzldoors11
+2023-04-13 17:09:29,472 DEBUG doors_project_path = /BHSS_SysEng_DongFengLanTu_Group
+2023-04-13 17:09:29,472 DEBUG data_suffix = 
+2023-04-13 17:09:29,472 DEBUG data_file = D:\MyPython\DoorsDataUpdater\Data\data_json_mytest_mcp.json
+2023-04-13 17:09:49,483 DEBUG 开始发送第1条
+2023-04-13 17:09:49,483 DEBUG ('dxl_command = \n', b'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:10:32,079 INFO ('Response from server:', '0')
+2023-04-13 17:10:32,080 DEBUG 第1条发送成功
+2023-04-13 17:10:32,080 DEBUG 发送成功1条
+2023-04-13 17:10:32,280 DEBUG 开始发送第2条
+2023-04-13 17:10:32,280 DEBUG ('dxl_command = \n', b'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:10:40,367 INFO ('Response from server:', '0')
+2023-04-13 17:10:40,368 DEBUG 第2条发送成功
+2023-04-13 17:10:40,368 DEBUG 发送成功2条
+2023-04-13 17:10:40,568 DEBUG 需发送2条，发送成功2条
+2023-04-13 17:10:40,568 INFO 运行耗时: 51.0940000000046 s
+2023-04-13 17:16:08,044 DEBUG doors_username = wh01619
+2023-04-13 17:16:08,044 DEBUG doors_password = yzldoors11
+2023-04-13 17:16:08,045 DEBUG doors_project_path = /BHSS_SysEng_DongFengLanTu_Group
+2023-04-13 17:16:08,045 DEBUG data_suffix = 
+2023-04-13 17:16:08,045 DEBUG data_file = D:\MyPython\DoorsDataUpdater\Data\data_json_mytest_mcp.json
+2023-04-13 17:16:08,045 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-13 17:16:08,048 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:16:08,048 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-13 17:16:08,050 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:16:08,051 DEBUG doors_username = wh01619
+2023-04-13 17:16:08,051 DEBUG doors_password = yzldoors11
+2023-04-13 17:16:08,051 DEBUG doors_project_path = /BHSS_SysEng_DongFengLanTu_Group
+2023-04-13 17:16:08,051 DEBUG data_suffix = 
+2023-04-13 17:16:08,055 DEBUG data_file = D:\MyPython\DoorsDataUpdater\Data\data_json_mytest_mcp.json
+2023-04-13 17:16:08,063 DEBUG ('doors session: ', <os._wrap_close object at 0x000001EC8F67AB00>)
+2023-04-13 17:16:28,064 DEBUG 开始发送第1条
+2023-04-13 17:16:28,065 DEBUG ('dxl_command = \n', b'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:17:16,641 INFO ('Response from server:', '0')
+2023-04-13 17:17:16,641 DEBUG 第1条发送成功
+2023-04-13 17:17:16,641 DEBUG 发送成功1条
+2023-04-13 17:17:16,842 DEBUG 开始发送第2条
+2023-04-13 17:17:16,842 DEBUG ('dxl_command = \n', b'const string DOORS_MODULE = "/BHSS_SysEng_DongFengLanTu_Group/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-13 17:17:24,840 INFO ('Response from server:', '0')
+2023-04-13 17:17:24,840 DEBUG 第2条发送成功
+2023-04-13 17:17:24,840 DEBUG 发送成功2条
+2023-04-13 17:17:25,041 DEBUG 需发送2条，发送成功2条
+2023-04-13 17:17:25,041 INFO 运行耗时: 56.984000000004016 s

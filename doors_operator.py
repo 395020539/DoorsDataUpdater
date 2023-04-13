@@ -7,6 +7,7 @@ import os
 import time
 from win32api import GetShortPathName
 from configuration_reader import MyConfig, MyPath
+from logging_maker import _MyLogger
 
 class DoorsOperator:
     def __init__(self):
@@ -31,7 +32,8 @@ class DoorsOperator:
         print(doors_cmd)
         exe = os.popen(doors_cmd)
         print("doors session: ", exe)
-        time.sleep(5)
+        _MyLogger.log("debug", ("doors session: ", exe))
+        time.sleep(20)
 
     def kill_doors(self):
         os.system('taskkill /f /im %s' % 'doors.exe')
@@ -98,6 +100,7 @@ while (true) {
             f.close()
         except Exception as e:
             print("error creating socket: ", e)
+            _MyLogger.log("error", ("error creating socket: ", e))
     if type == 2:
         print("delete temp_dxl.dxl")
         if os.path.exists(temp_dxl_path):
