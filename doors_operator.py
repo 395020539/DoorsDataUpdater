@@ -21,6 +21,7 @@ class DoorsOperator:
     def run_doors(self):
         # batchserver_dxl_path = app_dir + r"\batchserver.dxl"
         batchserver_dxl_path = self.app_dir + r"\temp_dxl.dxl"
+        _MyLogger.log("debug", f"batchserver_dxl_path = {batchserver_dxl_path}")
         # Create batch_dxl
         create_batch_dxl(1)
 
@@ -30,6 +31,7 @@ class DoorsOperator:
         # print(doors_cmd_options)
         doors_cmd = doors_exe_path + doors_cmd_options
         print(doors_cmd)
+        _MyLogger.log("debug", f"doors_cmd = {doors_cmd}")
         exe = os.popen(doors_cmd)
         print("doors session: ", exe)
         _MyLogger.log("debug", ("doors session: ", exe))
