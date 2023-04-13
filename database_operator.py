@@ -7,6 +7,7 @@ import time
 from configuration_reader import MyPath
 from logging_maker import _MyLogger
 
+
 class DataBaseOperator:
     def __init__(self):
         print("init Object")
@@ -42,7 +43,7 @@ class DataBaseOperator:
         if conn:
             # 创建一个游标对象
             cursor = conn.cursor()
-            sql = """select data_path from data_module_info where data_name = '{}' and module_name like '{}'"""\
+            sql = """select data_path from data_module_info where data_name = '{}' and module_name like '{}'""" \
                 .format(data_name, module_name)
             try:
                 cursor.execute(sql)
