@@ -117,6 +117,6 @@ class DxlSender:
 if __name__ == '__main__':
     mydxl = MyDxlCommand()
     mysender = DxlSender(mydxl.list_dxl_command)
-    mysender.send_dxl_commands()
+    # mysender.send_dxl_commands()
 
     os.system("Pause")
