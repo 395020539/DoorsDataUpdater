@@ -121,6 +121,7 @@ class MyWindow(QMainWindow, Ui_UIDoorsDataUpdater):
         self.lineEdit_data_file.setText(self.data_file)
         self.lineEdit_project_name.setText(self.project_name)
         self.lineEdit_username.setText(self.doors_username)
+        self.lineEdit_password.setText(self.doors_password)
 
 
 
@@ -140,6 +141,7 @@ class MyWindow(QMainWindow, Ui_UIDoorsDataUpdater):
                 json_data["data_suffix"] = self.data_suffix
                 json_data["doors_username"] = self.doors_username
                 json_data["doors_password"] = self.doors_password
+                json_data["data_file"] = self.data_file
         except Exception as e:
             print("An error occurred:", e)
         try:
@@ -209,13 +211,20 @@ class MyWindow(QMainWindow, Ui_UIDoorsDataUpdater):
         else:self.lineEdit_password.setEchoMode(QLineEdit.Password)
 
     def check_config(self):
+
+        myconfig = MyConfig()
+        error_flag, error_message = myconfig.check_my_config()
+
         # 创建应用程序说明框
         checked_info_dialog = QMessageBox()
         checked_info_dialog.setWindowTitle('提示')
 
         # 添加软件说明文本和网页链接
-        checked_info_dialog.setText('检查通过')
-        # checked_info_dialog.setInformativeText('请点击Load确认。')
+        if error_flag == 0:
+            checked_info_dialog.setText('检查通过！')
+        else:
+            checked_info_dialog.setText('检查不通过！')
+            checked_info_dialog.setInformativeText(error_message)
 
         checked_info_dialog.exec()
 

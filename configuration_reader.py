@@ -51,6 +51,32 @@ class MyConfig:
         finally:
             return return_code, doors_username, doors_password, doors_project_path, data_file, data_suffix
 
+    def check_my_config(self):
+        error_flag = 0
+        error_message = ""
+        e = None
+        try:
+            with open(self.data_file, 'r', encoding='utf - 8') as f:
+                json_data = json.load(f)
+        except  Exception as e:
+            print("An error occurred:", e)
+            _MyLogger.log("error", ("An error occurred:", e))
+            error_flag = 1
+            error_message = "Update Data文件有误"
+
+        if self.doors_username == "" or not self.doors_username:
+            error_flag = 1
+            error_message = "无效的用户名"
+        elif self.doors_password == "" or not self.doors_password:
+            error_flag = 1
+            error_message = "无效的密码"
+        elif self.doors_project_path == "/" or not self.doors_project_path or self.doors_password == "":
+            error_flag = 1
+            error_message = "无效的项目名"
+
+        return error_flag, error_message
+
+
 
 class MyPath:
     def __init__(self):
