@@ -24,18 +24,28 @@ class DoorsOperator:
         _MyLogger.log("debug", f"batchserver_dxl_path = {batchserver_dxl_path}")
         # Create batch_dxl
         create_batch_dxl(1)
+        if os.path.exists(self.doors_exe_path):
+            doors_exe_path = GetShortPathName(self.doors_exe_path)
+            # print(doors_exe_path)
+            doors_cmd_options = r' -user {} -password {} -batch {} -k'.format(self.username, self.password,
+                                                                              batchserver_dxl_path)
+            # print(doors_cmd_options)
+            doors_cmd = doors_exe_path + doors_cmd_options
+            print(doors_cmd)
+            _MyLogger.log("debug", f"doors_cmd = {doors_cmd}")
+            try:
+                exe = os.popen(doors_cmd)
+                time.sleep(20)
+                print("doors exe: ", exe)
+                _MyLogger.log("debug", ("doors session: ", exe))
+            except Exception as e:
+                print("An error occurred:", e)
+                _MyLogger.log("error", ("An error occurred:", e))
+        else:
+            doors_exe_path = ""
+            print("Doors路径无效")
+            _MyLogger.log("error", "Doors路径无效")
 
-        doors_exe_path = GetShortPathName(self.doors_exe_path)
-        # print(doors_exe_path)
-        doors_cmd_options = r' -user {} -password {} -batch {} -k'.format(self.username, self.password, batchserver_dxl_path)
-        # print(doors_cmd_options)
-        doors_cmd = doors_exe_path + doors_cmd_options
-        print(doors_cmd)
-        _MyLogger.log("debug", f"doors_cmd = {doors_cmd}")
-        exe = os.popen(doors_cmd)
-        print("doors session: ", exe)
-        _MyLogger.log("debug", ("doors session: ", exe))
-        time.sleep(20)
 
     def kill_doors(self):
         os.system('taskkill /f /im %s' % 'doors.exe')

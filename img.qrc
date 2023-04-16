@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>img/bosch_icon.png</file>
+    <file>icon.ico</file>
+  </qresource>
+</RCC>

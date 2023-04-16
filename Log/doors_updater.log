@@ -1125,3 +1125,1095 @@
 2023-04-14 14:29:49,759 DEBUG 发送成功2条
 2023-04-14 14:29:49,959 DEBUG 需发送2条，发送成功2条
 2023-04-14 14:29:49,959 INFO 运行耗时: 56.67099999999846 s
+2023-04-14 20:00:42,654 DEBUG doors_username = 
+2023-04-14 20:00:42,655 DEBUG doors_password = 
+2023-04-14 20:00:42,655 DEBUG doors_project_path = /31231
+2023-04-14 20:00:42,655 DEBUG data_suffix = 
+2023-04-14 20:00:42,655 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:00:58,742 DEBUG doors_username = 
+2023-04-14 20:00:58,742 DEBUG doors_password = 
+2023-04-14 20:00:58,742 DEBUG doors_project_path = /31231
+2023-04-14 20:00:58,743 DEBUG data_suffix = 
+2023-04-14 20:00:58,743 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:01:01,050 DEBUG doors_username = 
+2023-04-14 20:01:01,050 DEBUG doors_password = 
+2023-04-14 20:01:01,051 DEBUG doors_project_path = /31231
+2023-04-14 20:01:01,051 DEBUG data_suffix = 
+2023-04-14 20:01:01,051 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:01:09,733 DEBUG doors_username = 
+2023-04-14 20:01:09,733 DEBUG doors_password = 
+2023-04-14 20:01:09,733 DEBUG doors_project_path = /31231
+2023-04-14 20:01:09,734 DEBUG data_suffix = 
+2023-04-14 20:01:09,734 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:01:13,603 DEBUG doors_username = 
+2023-04-14 20:01:13,604 DEBUG doors_password = 
+2023-04-14 20:01:13,604 DEBUG doors_project_path = /31231
+2023-04-14 20:01:13,604 DEBUG data_suffix = 
+2023-04-14 20:01:13,604 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:01:21,401 DEBUG doors_username = 
+2023-04-14 20:01:21,402 DEBUG doors_password = 
+2023-04-14 20:01:21,402 DEBUG doors_project_path = /31231
+2023-04-14 20:01:21,402 DEBUG data_suffix = 
+2023-04-14 20:01:21,402 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:03:49,077 DEBUG doors_username = 
+2023-04-14 20:03:49,078 DEBUG doors_password = 
+2023-04-14 20:03:49,078 DEBUG doors_project_path = /31231
+2023-04-14 20:03:49,078 DEBUG data_suffix = 
+2023-04-14 20:03:49,078 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:04:46,537 DEBUG doors_username = 
+2023-04-14 20:04:46,537 DEBUG doors_password = 
+2023-04-14 20:04:46,537 DEBUG doors_project_path = /31231
+2023-04-14 20:04:46,538 DEBUG data_suffix = 
+2023-04-14 20:04:46,538 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:05:54,252 DEBUG doors_username = 
+2023-04-14 20:05:54,252 DEBUG doors_password = 
+2023-04-14 20:05:54,252 DEBUG doors_project_path = /31231
+2023-04-14 20:05:54,252 DEBUG data_suffix = 
+2023-04-14 20:05:54,253 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:07:46,491 DEBUG doors_username = 
+2023-04-14 20:07:46,491 DEBUG doors_password = 
+2023-04-14 20:07:46,491 DEBUG doors_project_path = /31231
+2023-04-14 20:07:46,492 DEBUG data_suffix = 
+2023-04-14 20:07:46,492 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:07:48,412 DEBUG doors_username = 
+2023-04-14 20:07:48,412 DEBUG doors_password = 
+2023-04-14 20:07:48,412 DEBUG doors_project_path = /31231
+2023-04-14 20:07:48,412 DEBUG data_suffix = 
+2023-04-14 20:07:48,412 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:07:57,909 DEBUG doors_username = 123
+2023-04-14 20:07:57,910 DEBUG doors_password = 123
+2023-04-14 20:07:57,910 DEBUG doors_project_path = /31231
+2023-04-14 20:07:57,910 DEBUG data_suffix = 
+2023-04-14 20:07:57,910 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:08:03,800 DEBUG doors_username = 123
+2023-04-14 20:08:03,800 DEBUG doors_password = 123
+2023-04-14 20:08:03,801 DEBUG doors_project_path = /31231
+2023-04-14 20:08:03,801 DEBUG data_suffix = 
+2023-04-14 20:08:03,801 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_ytest_mcp.json
+2023-04-14 20:08:03,801 ERROR ('An error occurred:', FileNotFoundError(2, 'No such file or directory'))
+2023-04-14 20:08:45,303 DEBUG doors_username = 123
+2023-04-14 20:08:45,303 DEBUG doors_password = 123
+2023-04-14 20:08:45,304 DEBUG doors_project_path = /31231
+2023-04-14 20:08:45,304 DEBUG data_suffix = 
+2023-04-14 20:08:45,304 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_ytest_mcp.json
+2023-04-14 20:08:49,012 DEBUG doors_username = 123
+2023-04-14 20:08:49,012 DEBUG doors_password = 123
+2023-04-14 20:08:49,012 DEBUG doors_project_path = /31231
+2023-04-14 20:08:49,013 DEBUG data_suffix = 
+2023-04-14 20:08:49,013 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_ytest_mcp.json
+2023-04-14 20:08:49,013 ERROR ('An error occurred:', FileNotFoundError(2, 'No such file or directory'))
+2023-04-14 20:08:57,612 DEBUG doors_username = 123
+2023-04-14 20:08:57,612 DEBUG doors_password = 123
+2023-04-14 20:08:57,612 DEBUG doors_project_path = /31231
+2023-04-14 20:08:57,612 DEBUG data_suffix = 
+2023-04-14 20:08:57,612 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:12:16,441 DEBUG doors_username = 123
+2023-04-14 20:12:16,441 DEBUG doors_password = 123
+2023-04-14 20:12:16,441 DEBUG doors_project_path = /31231
+2023-04-14 20:12:16,442 DEBUG data_suffix = 
+2023-04-14 20:12:16,442 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:12:16,442 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:12:16,462 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:12:16,462 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:12:16,463 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:12:16,463 DEBUG doors_username = 123
+2023-04-14 20:12:16,463 DEBUG doors_password = 123
+2023-04-14 20:12:16,464 DEBUG doors_project_path = /31231
+2023-04-14 20:12:16,464 DEBUG data_suffix = 
+2023-04-14 20:12:16,464 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:12:28,385 DEBUG doors_username = 123
+2023-04-14 20:12:28,385 DEBUG doors_password = 123
+2023-04-14 20:12:28,385 DEBUG doors_project_path = /31231
+2023-04-14 20:12:28,385 DEBUG data_suffix = 
+2023-04-14 20:12:28,385 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:12:28,386 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:12:28,386 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:12:28,387 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:12:28,387 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:12:28,388 DEBUG doors_username = 123
+2023-04-14 20:12:28,388 DEBUG doors_password = 123
+2023-04-14 20:12:28,388 DEBUG doors_project_path = /31231
+2023-04-14 20:12:28,388 DEBUG data_suffix = 
+2023-04-14 20:12:28,389 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:12:38,107 DEBUG doors_username = 123
+2023-04-14 20:12:38,107 DEBUG doors_password = 123
+2023-04-14 20:12:38,107 DEBUG doors_project_path = /31231
+2023-04-14 20:12:38,107 DEBUG data_suffix = 
+2023-04-14 20:12:38,107 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:12:38,108 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:12:38,109 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:12:38,109 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:12:38,109 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:12:38,110 DEBUG doors_username = 123
+2023-04-14 20:12:38,110 DEBUG doors_password = 123
+2023-04-14 20:12:38,110 DEBUG doors_project_path = /31231
+2023-04-14 20:12:38,110 DEBUG data_suffix = 
+2023-04-14 20:12:38,111 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:12:40,838 DEBUG doors_username = 123
+2023-04-14 20:12:40,838 DEBUG doors_password = 123
+2023-04-14 20:12:40,839 DEBUG doors_project_path = /31231
+2023-04-14 20:12:40,839 DEBUG data_suffix = 
+2023-04-14 20:12:40,839 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:14:32,534 DEBUG doors_username = 123
+2023-04-14 20:14:32,535 DEBUG doors_password = 123
+2023-04-14 20:14:32,535 DEBUG doors_project_path = /31231
+2023-04-14 20:14:32,535 DEBUG data_suffix = 
+2023-04-14 20:14:32,535 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:14:32,536 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:14:32,537 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:14:32,537 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:14:32,537 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:14:32,539 DEBUG doors_username = 123
+2023-04-14 20:14:32,539 DEBUG doors_password = 123
+2023-04-14 20:14:32,539 DEBUG doors_project_path = /31231
+2023-04-14 20:14:32,540 DEBUG data_suffix = 
+2023-04-14 20:14:32,540 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:14:41,660 DEBUG doors_username = 123
+2023-04-14 20:14:41,660 DEBUG doors_password = 123
+2023-04-14 20:14:41,661 DEBUG doors_project_path = /31231
+2023-04-14 20:14:41,661 DEBUG data_suffix = 
+2023-04-14 20:14:41,661 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:14:42,902 DEBUG doors_username = 123
+2023-04-14 20:14:42,902 DEBUG doors_password = 123
+2023-04-14 20:14:42,902 DEBUG doors_project_path = /31231
+2023-04-14 20:14:42,902 DEBUG data_suffix = 
+2023-04-14 20:14:42,903 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:14:42,903 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:14:42,904 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:14:42,904 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:14:42,905 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:14:42,911 DEBUG doors_username = 123
+2023-04-14 20:14:42,911 DEBUG doors_password = 123
+2023-04-14 20:14:42,911 DEBUG doors_project_path = /31231
+2023-04-14 20:14:42,911 DEBUG data_suffix = 
+2023-04-14 20:14:42,912 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:15:18,913 DEBUG doors_username = 123
+2023-04-14 20:15:18,913 DEBUG doors_password = 123
+2023-04-14 20:15:18,913 DEBUG doors_project_path = /31231
+2023-04-14 20:15:18,913 DEBUG data_suffix = 
+2023-04-14 20:15:18,913 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:15:19,440 DEBUG doors_username = 123
+2023-04-14 20:15:19,441 DEBUG doors_password = 123
+2023-04-14 20:15:19,441 DEBUG doors_project_path = /31231
+2023-04-14 20:15:19,441 DEBUG data_suffix = 
+2023-04-14 20:15:19,441 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:15:19,443 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:15:19,444 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:15:19,444 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:15:19,445 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:15:19,446 DEBUG doors_username = 123
+2023-04-14 20:15:19,446 DEBUG doors_password = 123
+2023-04-14 20:15:19,447 DEBUG doors_project_path = /31231
+2023-04-14 20:15:19,447 DEBUG data_suffix = 
+2023-04-14 20:15:19,447 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:16:05,951 DEBUG doors_username = 123
+2023-04-14 20:16:05,952 DEBUG doors_password = 123
+2023-04-14 20:16:05,952 DEBUG doors_project_path = /31231
+2023-04-14 20:16:05,952 DEBUG data_suffix = 
+2023-04-14 20:16:05,952 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:23:04,222 DEBUG doors_username = 123
+2023-04-14 20:23:04,222 DEBUG doors_password = 123
+2023-04-14 20:23:04,222 DEBUG doors_project_path = /31231
+2023-04-14 20:23:04,223 DEBUG data_suffix = 
+2023-04-14 20:23:04,223 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:23:05,858 DEBUG doors_username = 123
+2023-04-14 20:23:05,858 DEBUG doors_password = 123
+2023-04-14 20:23:05,858 DEBUG doors_project_path = /31231
+2023-04-14 20:23:05,858 DEBUG data_suffix = 
+2023-04-14 20:23:05,859 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:23:05,860 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:23:05,861 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:23:05,861 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:23:05,862 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:23:05,864 DEBUG doors_username = 123
+2023-04-14 20:23:05,864 DEBUG doors_password = 123
+2023-04-14 20:23:05,864 DEBUG doors_project_path = /31231
+2023-04-14 20:23:05,864 DEBUG data_suffix = 
+2023-04-14 20:23:05,865 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:25:32,568 DEBUG doors_username = 123
+2023-04-14 20:25:32,568 DEBUG doors_password = 123
+2023-04-14 20:25:32,569 DEBUG doors_project_path = /31231
+2023-04-14 20:25:32,569 DEBUG data_suffix = 
+2023-04-14 20:25:32,569 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:25:33,590 DEBUG doors_username = 123
+2023-04-14 20:25:33,595 DEBUG doors_password = 123
+2023-04-14 20:25:33,595 DEBUG doors_project_path = /31231
+2023-04-14 20:25:33,595 DEBUG data_suffix = 
+2023-04-14 20:25:33,595 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:25:33,596 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:25:33,598 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:25:33,599 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:25:33,599 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/31231/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:25:33,600 DEBUG doors_username = 123
+2023-04-14 20:25:33,600 DEBUG doors_password = 123
+2023-04-14 20:25:33,600 DEBUG doors_project_path = /31231
+2023-04-14 20:25:33,600 DEBUG data_suffix = 
+2023-04-14 20:25:33,600 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:25:40,580 DEBUG doors_username = 123
+2023-04-14 20:25:40,580 DEBUG doors_password = 123
+2023-04-14 20:25:40,580 DEBUG doors_project_path = /31231
+2023-04-14 20:25:40,581 DEBUG data_suffix = 
+2023-04-14 20:25:40,581 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:37:58,155 DEBUG doors_username = 123
+2023-04-14 20:37:58,155 DEBUG doors_password = 123
+2023-04-14 20:37:58,155 DEBUG doors_project_path = /31231
+2023-04-14 20:37:58,156 DEBUG data_suffix = 
+2023-04-14 20:37:58,156 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:37:59,328 DEBUG doors_username = 123
+2023-04-14 20:37:59,329 DEBUG doors_password = 123
+2023-04-14 20:37:59,329 DEBUG doors_project_path = /31231
+2023-04-14 20:37:59,329 DEBUG data_suffix = 
+2023-04-14 20:37:59,329 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:38:04,800 DEBUG doors_username = 123
+2023-04-14 20:38:04,800 DEBUG doors_password = 123
+2023-04-14 20:38:04,801 DEBUG doors_project_path = /31231
+2023-04-14 20:38:04,801 DEBUG data_suffix = 
+2023-04-14 20:38:04,801 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:38:15,979 DEBUG doors_username = 123
+2023-04-14 20:38:15,979 DEBUG doors_password = 123
+2023-04-14 20:38:15,979 DEBUG doors_project_path = /
+2023-04-14 20:38:15,979 DEBUG data_suffix = 
+2023-04-14 20:38:15,979 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:38:22,239 DEBUG doors_username = 123
+2023-04-14 20:38:22,239 DEBUG doors_password = 123
+2023-04-14 20:38:22,240 DEBUG doors_project_path = /213
+2023-04-14 20:38:22,240 DEBUG data_suffix = 
+2023-04-14 20:38:22,240 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:38:22,240 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:38:22,241 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:38:22,242 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 20:38:22,242 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 20:38:22,245 DEBUG doors_username = 123
+2023-04-14 20:38:22,245 DEBUG doors_password = 123
+2023-04-14 20:38:22,245 DEBUG doors_project_path = /213
+2023-04-14 20:38:22,246 DEBUG data_suffix = 
+2023-04-14 20:38:22,246 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 20:38:28,910 DEBUG doors_username = 123
+2023-04-14 20:38:28,911 DEBUG doors_password = 123
+2023-04-14 20:38:28,911 DEBUG doors_project_path = /213
+2023-04-14 20:38:28,911 DEBUG data_suffix = 
+2023-04-14 20:38:28,911 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:13:03,086 DEBUG doors_username = 123
+2023-04-14 21:13:03,086 DEBUG doors_password = 123
+2023-04-14 21:13:03,086 DEBUG doors_project_path = /213
+2023-04-14 21:13:03,087 DEBUG data_suffix = 
+2023-04-14 21:13:03,087 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:14:37,043 DEBUG doors_username = 123
+2023-04-14 21:14:37,043 DEBUG doors_password = 123
+2023-04-14 21:14:37,043 DEBUG doors_project_path = /213
+2023-04-14 21:14:37,044 DEBUG data_suffix = 
+2023-04-14 21:14:37,044 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:14:38,576 DEBUG doors_username = 123
+2023-04-14 21:14:38,576 DEBUG doors_password = 123
+2023-04-14 21:14:38,576 DEBUG doors_project_path = /213
+2023-04-14 21:14:38,576 DEBUG data_suffix = 
+2023-04-14 21:14:38,576 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:14:38,577 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:14:38,578 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:14:38,578 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:14:38,579 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:14:38,586 DEBUG doors_username = 123
+2023-04-14 21:14:38,586 DEBUG doors_password = 123
+2023-04-14 21:14:38,586 DEBUG doors_project_path = /213
+2023-04-14 21:14:38,586 DEBUG data_suffix = 
+2023-04-14 21:14:38,586 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:16:31,057 DEBUG doors_username = 123
+2023-04-14 21:16:31,058 DEBUG doors_password = 123
+2023-04-14 21:16:31,058 DEBUG doors_project_path = /213
+2023-04-14 21:16:31,058 DEBUG data_suffix = 
+2023-04-14 21:16:31,058 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:16:31,996 DEBUG doors_username = 123
+2023-04-14 21:16:31,996 DEBUG doors_password = 123
+2023-04-14 21:16:31,996 DEBUG doors_project_path = /213
+2023-04-14 21:16:31,997 DEBUG data_suffix = 
+2023-04-14 21:16:31,997 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:16:31,997 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:16:31,998 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:16:31,998 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:16:31,999 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:16:32,000 DEBUG doors_username = 123
+2023-04-14 21:16:32,000 DEBUG doors_password = 123
+2023-04-14 21:16:32,000 DEBUG doors_project_path = /213
+2023-04-14 21:16:32,001 DEBUG data_suffix = 
+2023-04-14 21:16:32,001 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:16:52,434 DEBUG doors_username = 123
+2023-04-14 21:16:52,434 DEBUG doors_password = 123
+2023-04-14 21:16:52,434 DEBUG doors_project_path = /213
+2023-04-14 21:16:52,434 DEBUG data_suffix = 
+2023-04-14 21:16:52,435 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:16:53,250 DEBUG doors_username = 123
+2023-04-14 21:16:53,251 DEBUG doors_password = 123
+2023-04-14 21:16:53,251 DEBUG doors_project_path = /213
+2023-04-14 21:16:53,251 DEBUG data_suffix = 
+2023-04-14 21:16:53,251 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:16:53,252 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:16:53,252 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:16:53,253 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:16:53,253 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:16:53,255 DEBUG doors_username = 123
+2023-04-14 21:16:53,255 DEBUG doors_password = 123
+2023-04-14 21:16:53,255 DEBUG doors_project_path = /213
+2023-04-14 21:16:53,256 DEBUG data_suffix = 
+2023-04-14 21:16:53,256 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:21:12,306 DEBUG doors_username = 123
+2023-04-14 21:21:12,306 DEBUG doors_password = 123
+2023-04-14 21:21:12,307 DEBUG doors_project_path = /213
+2023-04-14 21:21:12,307 DEBUG data_suffix = 
+2023-04-14 21:21:12,307 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:21:20,290 DEBUG doors_username = 123
+2023-04-14 21:21:20,290 DEBUG doors_password = 123
+2023-04-14 21:21:20,290 DEBUG doors_project_path = /213
+2023-04-14 21:21:20,291 DEBUG data_suffix = 
+2023-04-14 21:21:20,291 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:21:28,779 DEBUG doors_username = 123
+2023-04-14 21:21:28,784 DEBUG doors_password = 123
+2023-04-14 21:21:28,784 DEBUG doors_project_path = /213
+2023-04-14 21:21:28,784 DEBUG data_suffix = 
+2023-04-14 21:21:28,785 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:21:28,785 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:21:28,788 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:21:28,789 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:21:28,789 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:21:28,790 DEBUG doors_username = 123
+2023-04-14 21:21:28,790 DEBUG doors_password = 123
+2023-04-14 21:21:28,791 DEBUG doors_project_path = /213
+2023-04-14 21:21:28,791 DEBUG data_suffix = 
+2023-04-14 21:21:28,791 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:23:11,164 DEBUG doors_username = 123
+2023-04-14 21:23:11,165 DEBUG doors_password = 123
+2023-04-14 21:23:11,165 DEBUG doors_project_path = /213
+2023-04-14 21:23:11,165 DEBUG data_suffix = 
+2023-04-14 21:23:11,165 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:23:12,191 DEBUG doors_username = 123
+2023-04-14 21:23:12,191 DEBUG doors_password = 123
+2023-04-14 21:23:12,192 DEBUG doors_project_path = /213
+2023-04-14 21:23:12,192 DEBUG data_suffix = 
+2023-04-14 21:23:12,192 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:23:13,911 DEBUG doors_username = 123
+2023-04-14 21:23:13,911 DEBUG doors_password = 123
+2023-04-14 21:23:13,912 DEBUG doors_project_path = /213
+2023-04-14 21:23:13,912 DEBUG data_suffix = 
+2023-04-14 21:23:13,912 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:23:13,913 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:23:13,913 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:23:13,916 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:23:13,917 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:23:13,918 DEBUG doors_username = 123
+2023-04-14 21:23:13,918 DEBUG doors_password = 123
+2023-04-14 21:23:13,919 DEBUG doors_project_path = /213
+2023-04-14 21:23:13,919 DEBUG data_suffix = 
+2023-04-14 21:23:13,919 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:23:32,717 DEBUG doors_username = 123
+2023-04-14 21:23:32,717 DEBUG doors_password = 123
+2023-04-14 21:23:32,718 DEBUG doors_project_path = /213
+2023-04-14 21:23:32,718 DEBUG data_suffix = 
+2023-04-14 21:23:32,718 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:23:32,718 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:23:32,722 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:23:32,722 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:23:32,723 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:23:32,723 DEBUG doors_username = 123
+2023-04-14 21:23:32,723 DEBUG doors_password = 123
+2023-04-14 21:23:32,724 DEBUG doors_project_path = /213
+2023-04-14 21:23:32,724 DEBUG data_suffix = 
+2023-04-14 21:23:32,724 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:40:24,995 DEBUG doors_username = 123
+2023-04-14 21:40:24,995 DEBUG doors_password = 123
+2023-04-14 21:40:24,996 DEBUG doors_project_path = /213
+2023-04-14 21:40:24,996 DEBUG data_suffix = 
+2023-04-14 21:40:24,996 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:40:26,402 DEBUG doors_username = 123
+2023-04-14 21:40:26,402 DEBUG doors_password = 123
+2023-04-14 21:40:26,402 DEBUG doors_project_path = /213
+2023-04-14 21:40:26,402 DEBUG data_suffix = 
+2023-04-14 21:40:26,403 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:40:26,403 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:40:26,404 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:40:26,404 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:40:26,405 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:40:26,406 DEBUG doors_username = 123
+2023-04-14 21:40:26,406 DEBUG doors_password = 123
+2023-04-14 21:40:26,406 DEBUG doors_project_path = /213
+2023-04-14 21:40:26,407 DEBUG data_suffix = 
+2023-04-14 21:40:26,407 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:40:45,212 DEBUG doors_username = 123
+2023-04-14 21:40:45,212 DEBUG doors_password = 123
+2023-04-14 21:40:45,213 DEBUG doors_project_path = /213
+2023-04-14 21:40:45,213 DEBUG data_suffix = 
+2023-04-14 21:40:45,213 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:40:46,482 DEBUG doors_username = 123
+2023-04-14 21:40:46,482 DEBUG doors_password = 123
+2023-04-14 21:40:46,482 DEBUG doors_project_path = /213
+2023-04-14 21:40:46,483 DEBUG data_suffix = 
+2023-04-14 21:40:46,483 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:40:46,483 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:40:46,484 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:40:46,484 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:40:46,485 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:40:46,487 DEBUG doors_username = 123
+2023-04-14 21:40:46,487 DEBUG doors_password = 123
+2023-04-14 21:40:46,488 DEBUG doors_project_path = /213
+2023-04-14 21:40:46,488 DEBUG data_suffix = 
+2023-04-14 21:40:46,488 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:41:13,954 DEBUG doors_username = 123
+2023-04-14 21:41:13,955 DEBUG doors_password = 123
+2023-04-14 21:41:13,955 DEBUG doors_project_path = /213
+2023-04-14 21:41:13,955 DEBUG data_suffix = 
+2023-04-14 21:41:13,955 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:41:14,572 DEBUG doors_username = 123
+2023-04-14 21:41:14,573 DEBUG doors_password = 123
+2023-04-14 21:41:14,573 DEBUG doors_project_path = /213
+2023-04-14 21:41:14,573 DEBUG data_suffix = 
+2023-04-14 21:41:14,573 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 21:41:14,574 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:41:14,579 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:41:14,579 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 21:41:14,580 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 21:41:14,581 DEBUG doors_username = 123
+2023-04-14 21:41:14,581 DEBUG doors_password = 123
+2023-04-14 21:41:14,582 DEBUG doors_project_path = /213
+2023-04-14 21:41:14,582 DEBUG data_suffix = 
+2023-04-14 21:41:14,582 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:24:23,868 DEBUG doors_username = 123
+2023-04-14 22:24:23,868 DEBUG doors_password = 123
+2023-04-14 22:24:23,868 DEBUG doors_project_path = /213
+2023-04-14 22:24:23,868 DEBUG data_suffix = 
+2023-04-14 22:24:23,869 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:24:25,130 DEBUG doors_username = 123
+2023-04-14 22:24:25,130 DEBUG doors_password = 123
+2023-04-14 22:24:25,130 DEBUG doors_project_path = /213
+2023-04-14 22:24:25,131 DEBUG data_suffix = 
+2023-04-14 22:24:25,131 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:31:57,832 DEBUG doors_username = 123
+2023-04-14 22:31:57,832 DEBUG doors_password = 123
+2023-04-14 22:31:57,833 DEBUG doors_project_path = /213
+2023-04-14 22:31:57,833 DEBUG data_suffix = 
+2023-04-14 22:31:57,833 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:31:58,813 DEBUG doors_username = 123
+2023-04-14 22:31:58,813 DEBUG doors_password = 123
+2023-04-14 22:31:58,813 DEBUG doors_project_path = /213
+2023-04-14 22:31:58,813 DEBUG data_suffix = 
+2023-04-14 22:31:58,813 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:31:58,818 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:31:58,819 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:31:58,819 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:31:58,820 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:31:58,821 DEBUG doors_username = 123
+2023-04-14 22:31:58,821 DEBUG doors_password = 123
+2023-04-14 22:31:58,821 DEBUG doors_project_path = /213
+2023-04-14 22:31:58,821 DEBUG data_suffix = 
+2023-04-14 22:31:58,822 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:32:21,583 DEBUG doors_username = 123
+2023-04-14 22:32:21,583 DEBUG doors_password = 123
+2023-04-14 22:32:21,583 DEBUG doors_project_path = /213
+2023-04-14 22:32:21,583 DEBUG data_suffix = 
+2023-04-14 22:32:21,583 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:32:21,584 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:32:21,585 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:32:21,585 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:32:21,586 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:32:21,589 DEBUG doors_username = 123
+2023-04-14 22:32:21,589 DEBUG doors_password = 123
+2023-04-14 22:32:21,589 DEBUG doors_project_path = /213
+2023-04-14 22:32:21,589 DEBUG data_suffix = 
+2023-04-14 22:32:21,590 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:48:42,632 DEBUG doors_username = 123
+2023-04-14 22:48:42,632 DEBUG doors_password = 123
+2023-04-14 22:48:42,633 DEBUG doors_project_path = /213
+2023-04-14 22:48:42,633 DEBUG data_suffix = 
+2023-04-14 22:48:42,633 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:48:43,951 DEBUG doors_username = 123
+2023-04-14 22:48:43,951 DEBUG doors_password = 123
+2023-04-14 22:48:43,951 DEBUG doors_project_path = /213
+2023-04-14 22:48:43,952 DEBUG data_suffix = 
+2023-04-14 22:48:43,952 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:48:45,567 DEBUG doors_username = 123
+2023-04-14 22:48:45,567 DEBUG doors_password = 123
+2023-04-14 22:48:45,567 DEBUG doors_project_path = /213
+2023-04-14 22:48:45,567 DEBUG data_suffix = 
+2023-04-14 22:48:45,568 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:48:45,568 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:48:45,569 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:48:45,569 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:48:45,570 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:48:45,573 DEBUG doors_username = 123
+2023-04-14 22:48:45,573 DEBUG doors_password = 123
+2023-04-14 22:48:45,573 DEBUG doors_project_path = /213
+2023-04-14 22:48:45,573 DEBUG data_suffix = 
+2023-04-14 22:48:45,573 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:48:55,861 DEBUG doors_username = 123
+2023-04-14 22:48:55,861 DEBUG doors_password = 123
+2023-04-14 22:48:55,862 DEBUG doors_project_path = /213
+2023-04-14 22:48:55,862 DEBUG data_suffix = 
+2023-04-14 22:48:55,862 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:48:55,867 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:48:55,867 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:48:55,868 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:48:55,868 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:48:55,869 DEBUG doors_username = 123
+2023-04-14 22:48:55,869 DEBUG doors_password = 123
+2023-04-14 22:48:55,869 DEBUG doors_project_path = /213
+2023-04-14 22:48:55,869 DEBUG data_suffix = 
+2023-04-14 22:48:55,870 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:52:04,622 DEBUG doors_username = 123
+2023-04-14 22:52:04,623 DEBUG doors_password = 123
+2023-04-14 22:52:04,623 DEBUG doors_project_path = /213
+2023-04-14 22:52:04,623 DEBUG data_suffix = 
+2023-04-14 22:52:04,623 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:52:05,449 DEBUG doors_username = 123
+2023-04-14 22:52:05,449 DEBUG doors_password = 123
+2023-04-14 22:52:05,449 DEBUG doors_project_path = /213
+2023-04-14 22:52:05,449 DEBUG data_suffix = 
+2023-04-14 22:52:05,450 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:52:05,450 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:52:05,451 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:52:05,451 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:52:05,452 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:52:05,453 DEBUG doors_username = 123
+2023-04-14 22:52:05,453 DEBUG doors_password = 123
+2023-04-14 22:52:05,453 DEBUG doors_project_path = /213
+2023-04-14 22:52:05,453 DEBUG data_suffix = 
+2023-04-14 22:52:05,454 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:54:06,990 DEBUG doors_username = 123
+2023-04-14 22:54:06,990 DEBUG doors_password = 123
+2023-04-14 22:54:06,990 DEBUG doors_project_path = /213
+2023-04-14 22:54:06,991 DEBUG data_suffix = 
+2023-04-14 22:54:06,991 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:54:07,650 DEBUG doors_username = 123
+2023-04-14 22:54:07,650 DEBUG doors_password = 123
+2023-04-14 22:54:07,650 DEBUG doors_project_path = /213
+2023-04-14 22:54:07,650 DEBUG data_suffix = 
+2023-04-14 22:54:07,651 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:54:07,651 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:54:07,652 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:54:07,652 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:54:07,653 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:54:07,658 DEBUG doors_username = 123
+2023-04-14 22:54:07,658 DEBUG doors_password = 123
+2023-04-14 22:54:07,658 DEBUG doors_project_path = /213
+2023-04-14 22:54:07,658 DEBUG data_suffix = 
+2023-04-14 22:54:07,659 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:54:23,623 DEBUG doors_username = 123
+2023-04-14 22:54:23,623 DEBUG doors_password = 123
+2023-04-14 22:54:23,623 DEBUG doors_project_path = /213
+2023-04-14 22:54:23,623 DEBUG data_suffix = 
+2023-04-14 22:54:23,624 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:54:23,624 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:54:23,625 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:54:23,625 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:54:23,626 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:54:23,628 DEBUG doors_username = 123
+2023-04-14 22:54:23,628 DEBUG doors_password = 123
+2023-04-14 22:54:23,628 DEBUG doors_project_path = /213
+2023-04-14 22:54:23,628 DEBUG data_suffix = 
+2023-04-14 22:54:23,629 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:54:44,571 DEBUG doors_username = 123
+2023-04-14 22:54:44,571 DEBUG doors_password = 123
+2023-04-14 22:54:44,571 DEBUG doors_project_path = /213
+2023-04-14 22:54:44,571 DEBUG data_suffix = 
+2023-04-14 22:54:44,571 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:54:44,572 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:54:44,572 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:54:44,573 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:54:44,573 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:54:44,574 DEBUG doors_username = 123
+2023-04-14 22:54:44,574 DEBUG doors_password = 123
+2023-04-14 22:54:44,574 DEBUG doors_project_path = /213
+2023-04-14 22:54:44,574 DEBUG data_suffix = 
+2023-04-14 22:54:44,574 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:54:49,577 DEBUG doors_username = 123
+2023-04-14 22:54:49,577 DEBUG doors_password = 123
+2023-04-14 22:54:49,577 DEBUG doors_project_path = /213
+2023-04-14 22:54:49,577 DEBUG data_suffix = 
+2023-04-14 22:54:49,578 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:54:49,578 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:54:49,579 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:54:49,580 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:54:49,580 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:54:49,581 DEBUG doors_username = 123
+2023-04-14 22:54:49,581 DEBUG doors_password = 123
+2023-04-14 22:54:49,581 DEBUG doors_project_path = /213
+2023-04-14 22:54:49,581 DEBUG data_suffix = 
+2023-04-14 22:54:49,582 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:55:56,525 DEBUG doors_username = 123
+2023-04-14 22:55:56,525 DEBUG doors_password = 123
+2023-04-14 22:55:56,526 DEBUG doors_project_path = /213
+2023-04-14 22:55:56,526 DEBUG data_suffix = 
+2023-04-14 22:55:56,526 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:55:57,331 DEBUG doors_username = 123
+2023-04-14 22:55:57,331 DEBUG doors_password = 123
+2023-04-14 22:55:57,331 DEBUG doors_project_path = /213
+2023-04-14 22:55:57,331 DEBUG data_suffix = 
+2023-04-14 22:55:57,331 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:55:57,335 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:55:57,335 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:55:57,336 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:55:57,336 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:55:57,337 DEBUG doors_username = 123
+2023-04-14 22:55:57,337 DEBUG doors_password = 123
+2023-04-14 22:55:57,337 DEBUG doors_project_path = /213
+2023-04-14 22:55:57,337 DEBUG data_suffix = 
+2023-04-14 22:55:57,337 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:56:58,461 DEBUG doors_username = 123
+2023-04-14 22:56:58,461 DEBUG doors_password = 123
+2023-04-14 22:56:58,461 DEBUG doors_project_path = /213
+2023-04-14 22:56:58,462 DEBUG data_suffix = 
+2023-04-14 22:56:58,462 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:56:59,261 DEBUG doors_username = 123
+2023-04-14 22:56:59,262 DEBUG doors_password = 123
+2023-04-14 22:56:59,262 DEBUG doors_project_path = /213
+2023-04-14 22:56:59,262 DEBUG data_suffix = 
+2023-04-14 22:56:59,262 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 22:56:59,266 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:56:59,267 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:56:59,267 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 22:56:59,268 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 22:56:59,268 DEBUG doors_username = 123
+2023-04-14 22:56:59,268 DEBUG doors_password = 123
+2023-04-14 22:56:59,268 DEBUG doors_project_path = /213
+2023-04-14 22:56:59,269 DEBUG data_suffix = 
+2023-04-14 22:56:59,269 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:01:18,165 DEBUG doors_username = 123
+2023-04-14 23:01:18,165 DEBUG doors_password = 123
+2023-04-14 23:01:18,166 DEBUG doors_project_path = /213
+2023-04-14 23:01:18,166 DEBUG data_suffix = 
+2023-04-14 23:01:18,166 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:01:19,563 DEBUG doors_username = 123
+2023-04-14 23:01:19,564 DEBUG doors_password = 123
+2023-04-14 23:01:19,564 DEBUG doors_project_path = /213
+2023-04-14 23:01:19,564 DEBUG data_suffix = 
+2023-04-14 23:01:19,564 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:01:19,567 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:01:19,567 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:01:19,568 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:01:19,569 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:01:19,570 DEBUG doors_username = 123
+2023-04-14 23:01:19,570 DEBUG doors_password = 123
+2023-04-14 23:01:19,570 DEBUG doors_project_path = /213
+2023-04-14 23:01:19,570 DEBUG data_suffix = 
+2023-04-14 23:01:19,570 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:03:10,681 DEBUG doors_username = 123
+2023-04-14 23:03:10,682 DEBUG doors_password = 123
+2023-04-14 23:03:10,682 DEBUG doors_project_path = /213
+2023-04-14 23:03:10,682 DEBUG data_suffix = 
+2023-04-14 23:03:10,682 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:03:12,687 DEBUG doors_username = 123
+2023-04-14 23:03:12,687 DEBUG doors_password = 123
+2023-04-14 23:03:12,688 DEBUG doors_project_path = /213
+2023-04-14 23:03:12,688 DEBUG data_suffix = 
+2023-04-14 23:03:12,688 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:03:12,689 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:03:12,689 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:03:12,690 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:03:12,690 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:03:12,691 DEBUG doors_username = 123
+2023-04-14 23:03:12,691 DEBUG doors_password = 123
+2023-04-14 23:03:12,691 DEBUG doors_project_path = /213
+2023-04-14 23:03:12,691 DEBUG data_suffix = 
+2023-04-14 23:03:12,692 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:03:40,901 DEBUG doors_username = 123
+2023-04-14 23:03:40,901 DEBUG doors_password = 123
+2023-04-14 23:03:40,901 DEBUG doors_project_path = /213
+2023-04-14 23:03:40,901 DEBUG data_suffix = 
+2023-04-14 23:03:40,901 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:03:40,902 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:03:40,903 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:03:40,903 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:03:40,904 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:03:40,904 DEBUG doors_username = 123
+2023-04-14 23:03:40,904 DEBUG doors_password = 123
+2023-04-14 23:03:40,905 DEBUG doors_project_path = /213
+2023-04-14 23:03:40,905 DEBUG data_suffix = 
+2023-04-14 23:03:40,905 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:03:53,177 DEBUG doors_username = 123
+2023-04-14 23:03:53,177 DEBUG doors_password = 123
+2023-04-14 23:03:53,178 DEBUG doors_project_path = /213
+2023-04-14 23:03:53,178 DEBUG data_suffix = 
+2023-04-14 23:03:53,178 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:03:53,998 DEBUG doors_username = 123
+2023-04-14 23:03:53,998 DEBUG doors_password = 123
+2023-04-14 23:03:53,998 DEBUG doors_project_path = /213
+2023-04-14 23:03:53,998 DEBUG data_suffix = 
+2023-04-14 23:03:53,998 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:03:53,999 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:03:54,000 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:03:54,000 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:03:54,000 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:03:54,001 DEBUG doors_username = 123
+2023-04-14 23:03:54,001 DEBUG doors_password = 123
+2023-04-14 23:03:54,001 DEBUG doors_project_path = /213
+2023-04-14 23:03:54,001 DEBUG data_suffix = 
+2023-04-14 23:03:54,002 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:04:07,836 DEBUG doors_username = 123
+2023-04-14 23:04:07,836 DEBUG doors_password = 123
+2023-04-14 23:04:07,836 DEBUG doors_project_path = /213
+2023-04-14 23:04:07,837 DEBUG data_suffix = 
+2023-04-14 23:04:07,837 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:04:07,837 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:04:07,838 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:04:07,838 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:04:07,839 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:04:07,842 DEBUG doors_username = 123
+2023-04-14 23:04:07,842 DEBUG doors_password = 123
+2023-04-14 23:04:07,842 DEBUG doors_project_path = /213
+2023-04-14 23:04:07,842 DEBUG data_suffix = 
+2023-04-14 23:04:07,843 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:05:38,661 DEBUG doors_username = 123
+2023-04-14 23:05:38,661 DEBUG doors_password = 123
+2023-04-14 23:05:38,662 DEBUG doors_project_path = /213
+2023-04-14 23:05:38,662 DEBUG data_suffix = 
+2023-04-14 23:05:38,662 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:05:39,247 DEBUG doors_username = 123
+2023-04-14 23:05:39,248 DEBUG doors_password = 123
+2023-04-14 23:05:39,248 DEBUG doors_project_path = /213
+2023-04-14 23:05:39,248 DEBUG data_suffix = 
+2023-04-14 23:05:39,248 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:05:39,249 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:05:39,249 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:05:39,250 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:05:39,250 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:05:39,251 DEBUG doors_username = 123
+2023-04-14 23:05:39,251 DEBUG doors_password = 123
+2023-04-14 23:05:39,252 DEBUG doors_project_path = /213
+2023-04-14 23:05:39,252 DEBUG data_suffix = 
+2023-04-14 23:05:39,252 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:06:12,878 DEBUG doors_username = 123
+2023-04-14 23:06:12,878 DEBUG doors_password = 123
+2023-04-14 23:06:12,878 DEBUG doors_project_path = /213
+2023-04-14 23:06:12,878 DEBUG data_suffix = 
+2023-04-14 23:06:12,879 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:06:13,420 DEBUG doors_username = 123
+2023-04-14 23:06:13,420 DEBUG doors_password = 123
+2023-04-14 23:06:13,420 DEBUG doors_project_path = /213
+2023-04-14 23:06:13,420 DEBUG data_suffix = 
+2023-04-14 23:06:13,421 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:06:13,421 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:06:13,422 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:06:13,422 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:06:13,423 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:06:13,426 DEBUG doors_username = 123
+2023-04-14 23:06:13,426 DEBUG doors_password = 123
+2023-04-14 23:06:13,426 DEBUG doors_project_path = /213
+2023-04-14 23:06:13,426 DEBUG data_suffix = 
+2023-04-14 23:06:13,427 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:23:27,130 DEBUG doors_username = 123
+2023-04-14 23:23:27,131 DEBUG doors_password = 123
+2023-04-14 23:23:27,131 DEBUG doors_project_path = /213
+2023-04-14 23:23:27,131 DEBUG data_suffix = 
+2023-04-14 23:23:27,131 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:23:31,662 DEBUG doors_username = 123
+2023-04-14 23:23:31,662 DEBUG doors_password = 123
+2023-04-14 23:23:31,663 DEBUG doors_project_path = /213
+2023-04-14 23:23:31,663 DEBUG data_suffix = 
+2023-04-14 23:23:31,663 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:23:33,573 DEBUG doors_username = 123
+2023-04-14 23:23:33,573 DEBUG doors_password = 123
+2023-04-14 23:23:33,573 DEBUG doors_project_path = /213
+2023-04-14 23:23:33,573 DEBUG data_suffix = 
+2023-04-14 23:23:33,574 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:23:33,574 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:23:33,575 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:23:33,575 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:23:33,576 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:23:33,579 DEBUG doors_username = 123
+2023-04-14 23:23:33,579 DEBUG doors_password = 123
+2023-04-14 23:23:33,579 DEBUG doors_project_path = /213
+2023-04-14 23:23:33,579 DEBUG data_suffix = 
+2023-04-14 23:23:33,579 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:23:33,580 DEBUG batchserver_dxl_path = D:\MyPython\DoorsDataUpdater\temp_dxl.dxl
+2023-04-14 23:25:56,531 DEBUG doors_username = 123
+2023-04-14 23:25:56,531 DEBUG doors_password = 123
+2023-04-14 23:25:56,531 DEBUG doors_project_path = /213
+2023-04-14 23:25:56,532 DEBUG data_suffix = 
+2023-04-14 23:25:56,532 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:25:57,738 DEBUG doors_username = 123
+2023-04-14 23:25:57,738 DEBUG doors_password = 123
+2023-04-14 23:25:57,739 DEBUG doors_project_path = /213
+2023-04-14 23:25:57,739 DEBUG data_suffix = 
+2023-04-14 23:25:57,739 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:25:57,739 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:25:57,740 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:25:57,741 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:25:57,741 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:25:57,744 DEBUG doors_username = 123
+2023-04-14 23:25:57,744 DEBUG doors_password = 123
+2023-04-14 23:25:57,744 DEBUG doors_project_path = /213
+2023-04-14 23:25:57,744 DEBUG data_suffix = 
+2023-04-14 23:25:57,744 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:25:57,745 DEBUG batchserver_dxl_path = D:\MyPython\DoorsDataUpdater\temp_dxl.dxl
+2023-04-14 23:27:50,591 DEBUG doors_username = 123
+2023-04-14 23:27:50,591 DEBUG doors_password = 123
+2023-04-14 23:27:50,591 DEBUG doors_project_path = /213
+2023-04-14 23:27:50,592 DEBUG data_suffix = 
+2023-04-14 23:27:50,592 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:27:51,283 DEBUG doors_username = 123
+2023-04-14 23:27:51,283 DEBUG doors_password = 123
+2023-04-14 23:27:51,283 DEBUG doors_project_path = /213
+2023-04-14 23:27:51,283 DEBUG data_suffix = 
+2023-04-14 23:27:51,284 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:27:51,284 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:27:51,285 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:27:51,285 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:27:51,286 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:27:51,289 DEBUG doors_username = 123
+2023-04-14 23:27:51,289 DEBUG doors_password = 123
+2023-04-14 23:27:51,289 DEBUG doors_project_path = /213
+2023-04-14 23:27:51,289 DEBUG data_suffix = 
+2023-04-14 23:27:51,289 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:27:51,290 DEBUG batchserver_dxl_path = D:\MyPython\DoorsDataUpdater\temp_dxl.dxl
+2023-04-14 23:27:51,290 ERROR Doors路径无效
+2023-04-14 23:29:19,157 DEBUG doors_username = 123
+2023-04-14 23:29:19,157 DEBUG doors_password = 123
+2023-04-14 23:29:19,157 DEBUG doors_project_path = /213
+2023-04-14 23:29:19,157 DEBUG data_suffix = 
+2023-04-14 23:29:19,157 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:29:20,000 DEBUG doors_username = 123
+2023-04-14 23:29:20,000 DEBUG doors_password = 123
+2023-04-14 23:29:20,000 DEBUG doors_project_path = /213
+2023-04-14 23:29:20,000 DEBUG data_suffix = 
+2023-04-14 23:29:20,001 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:29:20,001 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:29:20,002 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:29:20,002 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:29:20,003 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:29:20,005 DEBUG doors_username = 123
+2023-04-14 23:29:20,006 DEBUG doors_password = 123
+2023-04-14 23:29:20,006 DEBUG doors_project_path = /213
+2023-04-14 23:29:20,006 DEBUG data_suffix = 
+2023-04-14 23:29:20,006 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:29:20,006 DEBUG batchserver_dxl_path = D:\MyPython\DoorsDataUpdater\temp_dxl.dxl
+2023-04-14 23:29:20,007 ERROR Doors路径无效
+2023-04-14 23:29:20,007 DEBUG doors_cmd =  -user 123 -password 123 -batch D:\MyPython\DoorsDataUpdater\temp_dxl.dxl -k
+2023-04-14 23:29:20,070 DEBUG ('doors session: ', <os._wrap_close object at 0x000001A8F6BAD750>)
+2023-04-14 23:32:03,788 DEBUG doors_username = 123
+2023-04-14 23:32:03,789 DEBUG doors_password = 123
+2023-04-14 23:32:03,789 DEBUG doors_project_path = /213
+2023-04-14 23:32:03,789 DEBUG data_suffix = 
+2023-04-14 23:32:03,789 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:32:04,499 DEBUG doors_username = 123
+2023-04-14 23:32:04,499 DEBUG doors_password = 123
+2023-04-14 23:32:04,500 DEBUG doors_project_path = /213
+2023-04-14 23:32:04,500 DEBUG data_suffix = 
+2023-04-14 23:32:04,500 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:32:04,503 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:32:04,505 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:32:04,505 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:32:04,506 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:32:04,506 DEBUG doors_username = 123
+2023-04-14 23:32:04,506 DEBUG doors_password = 123
+2023-04-14 23:32:04,507 DEBUG doors_project_path = /213
+2023-04-14 23:32:04,507 DEBUG data_suffix = 
+2023-04-14 23:32:04,507 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:32:04,507 DEBUG batchserver_dxl_path = D:\MyPython\DoorsDataUpdater\temp_dxl.dxl
+2023-04-14 23:32:04,508 ERROR Doors路径无效
+2023-04-14 23:32:04,508 DEBUG doors_cmd =  -user 123 -password 123 -batch D:\MyPython\DoorsDataUpdater\temp_dxl.dxl -k
+2023-04-14 23:33:03,210 DEBUG doors_username = 123
+2023-04-14 23:33:03,211 DEBUG doors_password = 123
+2023-04-14 23:33:03,211 DEBUG doors_project_path = /213
+2023-04-14 23:33:03,211 DEBUG data_suffix = 
+2023-04-14 23:33:03,211 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:33:04,064 DEBUG doors_username = 123
+2023-04-14 23:33:04,064 DEBUG doors_password = 123
+2023-04-14 23:33:04,064 DEBUG doors_project_path = /213
+2023-04-14 23:33:04,065 DEBUG data_suffix = 
+2023-04-14 23:33:04,065 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:33:04,065 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:33:04,067 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:33:04,068 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:33:04,068 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:33:04,070 DEBUG doors_username = 123
+2023-04-14 23:33:04,070 DEBUG doors_password = 123
+2023-04-14 23:33:04,070 DEBUG doors_project_path = /213
+2023-04-14 23:33:04,070 DEBUG data_suffix = 
+2023-04-14 23:33:04,071 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:33:04,071 DEBUG batchserver_dxl_path = D:\MyPython\DoorsDataUpdater\temp_dxl.dxl
+2023-04-14 23:33:04,071 ERROR Doors路径无效
+2023-04-14 23:33:04,072 DEBUG 开始发送第1条
+2023-04-14 23:33:04,072 DEBUG ('dxl_command = \n', b'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:33:06,080 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:33:11,094 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:33:16,112 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:33:21,117 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:33:26,132 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:35:44,724 DEBUG doors_username = 123
+2023-04-14 23:35:44,724 DEBUG doors_password = 123
+2023-04-14 23:35:44,724 DEBUG doors_project_path = /213
+2023-04-14 23:35:44,724 DEBUG data_suffix = 
+2023-04-14 23:35:44,725 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:35:44,725 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-14 23:37:52,373 DEBUG doors_username = 123
+2023-04-14 23:37:52,373 DEBUG doors_password = 123
+2023-04-14 23:37:52,374 DEBUG doors_project_path = /213
+2023-04-14 23:37:52,374 DEBUG data_suffix = 
+2023-04-14 23:37:52,374 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:37:52,374 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-14 23:37:53,635 DEBUG doors_username = 123
+2023-04-14 23:37:53,636 DEBUG doors_password = 123
+2023-04-14 23:37:53,636 DEBUG doors_project_path = /213
+2023-04-14 23:37:53,636 DEBUG data_suffix = 
+2023-04-14 23:37:53,636 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:37:53,636 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-14 23:37:53,637 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:37:53,638 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:37:53,638 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:37:53,639 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:37:53,639 DEBUG doors_username = 123
+2023-04-14 23:37:53,639 DEBUG doors_password = 123
+2023-04-14 23:37:53,639 DEBUG doors_project_path = /213
+2023-04-14 23:37:53,640 DEBUG data_suffix = 
+2023-04-14 23:37:53,640 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:37:53,640 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-14 23:37:53,640 DEBUG batchserver_dxl_path = D:\MyPython\DoorsDataUpdater\temp_dxl.dxl
+2023-04-14 23:37:53,641 ERROR Doors路径无效
+2023-04-14 23:37:53,641 DEBUG 开始发送第1条
+2023-04-14 23:37:53,641 DEBUG ('dxl_command = \n', b'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:37:55,660 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:00,673 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:05,688 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:10,701 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:15,716 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:20,729 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:25,748 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:30,763 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:35,777 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:40,791 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:43,791 ERROR ('Failed to connect to the server after', 10, 'attempts.')
+2023-04-14 23:38:43,791 DEBUG 第1条发送失败
+2023-04-14 23:38:43,791 DEBUG 发送成功0条
+2023-04-14 23:38:43,993 DEBUG 开始发送第2条
+2023-04-14 23:38:43,993 DEBUG ('dxl_command = \n', b'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:38:46,006 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:51,021 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:38:56,035 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:39:01,051 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:39:06,067 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:39:11,082 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:39:16,097 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:39:21,115 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:39:26,131 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:39:31,145 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:39:34,146 ERROR ('Failed to connect to the server after', 10, 'attempts.')
+2023-04-14 23:39:34,146 DEBUG 第2条发送失败
+2023-04-14 23:39:34,146 DEBUG 发送成功0条
+2023-04-14 23:39:34,347 DEBUG 需发送2条，发送成功0条
+2023-04-14 23:39:34,347 INFO 运行耗时: 100.70299999997951 s
+2023-04-14 23:45:06,622 DEBUG doors_username = 123
+2023-04-14 23:45:06,622 DEBUG doors_password = 123
+2023-04-14 23:45:06,622 DEBUG doors_project_path = /213
+2023-04-14 23:45:06,623 DEBUG data_suffix = 
+2023-04-14 23:45:06,623 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:45:06,623 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-14 23:45:10,332 DEBUG doors_username = 123
+2023-04-14 23:45:10,332 DEBUG doors_password = 123
+2023-04-14 23:45:10,332 DEBUG doors_project_path = /213
+2023-04-14 23:45:10,332 DEBUG data_suffix = 
+2023-04-14 23:45:10,332 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:45:10,333 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-14 23:45:11,910 DEBUG doors_username = 123
+2023-04-14 23:45:11,911 DEBUG doors_password = 123
+2023-04-14 23:45:11,911 DEBUG doors_project_path = /213
+2023-04-14 23:45:11,911 DEBUG data_suffix = 
+2023-04-14 23:45:11,911 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:45:11,911 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-14 23:49:11,444 DEBUG doors_username = 123
+2023-04-14 23:49:11,444 DEBUG doors_password = 123
+2023-04-14 23:49:11,444 DEBUG doors_project_path = /213
+2023-04-14 23:49:11,444 DEBUG data_suffix = 
+2023-04-14 23:49:11,444 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:49:11,445 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-14 23:49:29,443 DEBUG doors_username = 123
+2023-04-14 23:49:29,443 DEBUG doors_password = 123
+2023-04-14 23:49:29,444 DEBUG doors_project_path = /213
+2023-04-14 23:49:29,444 DEBUG data_suffix = 
+2023-04-14 23:49:29,444 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:49:29,444 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-14 23:49:29,445 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:49:29,445 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:49:29,446 DEBUG db_path = D:\MyPython\DoorsDataUpdater\Data\SysEngDataDB.db
+2023-04-14 23:49:29,446 DEBUG ('dxl_update_date_command = ', 'const string DOORS_MODULE = "/213/05_Function_Contributions/Detect and activate Protect mechanical Rack/Data Detect and activate Protect mechanical Rack"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:49:29,449 DEBUG doors_username = 123
+2023-04-14 23:49:29,449 DEBUG doors_password = 123
+2023-04-14 23:49:29,449 DEBUG doors_project_path = /213
+2023-04-14 23:49:29,449 DEBUG data_suffix = 
+2023-04-14 23:49:29,450 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:49:29,450 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-14 23:49:29,450 DEBUG batchserver_dxl_path = D:\MyPython\DoorsDataUpdater\temp_dxl.dxl
+2023-04-14 23:49:29,451 ERROR Doors路径无效
+2023-04-14 23:49:29,451 DEBUG 开始发送第1条
+2023-04-14 23:49:29,451 DEBUG ('dxl_command = \n', b'const string DOORS_MODULE = "/213/03_System_Functions/Mitigate Curb Push-off/Data Mitigate Curb Push-off"\n    Module m = edit(DOORS_MODULE, false)\n    Object o\n    string DATA_NAME = ""\n    string DATA_VALUE = ""\n                \n    DATA_NAME = "RACKPROT_MAX_ABS_STEERING_ANGLE_SPEED"\n    DATA_VALUE = " 100.000 \n"\n                            \n    for o in all(m) do {\n        if (o."Object Text" "" == DATA_NAME){\n            o."Wert(e)" = DATA_VALUE\n        }\n    }\n                        \n    save(m)\n    close(m)\n    return_ "0"\n                    ')
+2023-04-14 23:49:31,469 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:49:36,484 ERROR Connection refused. Please check if the server is running.
+2023-04-14 23:50:12,847 DEBUG doors_username = 123
+2023-04-14 23:50:12,847 DEBUG doors_password = 123
+2023-04-14 23:50:12,848 DEBUG doors_project_path = /213
+2023-04-14 23:50:12,848 DEBUG data_suffix = 
+2023-04-14 23:50:12,848 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-14 23:50:12,848 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:00:40,382 DEBUG doors_username = 123
+2023-04-15 00:00:40,382 DEBUG doors_password = 123
+2023-04-15 00:00:40,383 DEBUG doors_project_path = /213
+2023-04-15 00:00:40,383 DEBUG data_suffix = 
+2023-04-15 00:00:40,383 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-15 00:00:40,383 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:00:45,832 DEBUG doors_username = 123
+2023-04-15 00:00:45,833 DEBUG doors_password = 123
+2023-04-15 00:00:45,833 DEBUG doors_project_path = /213
+2023-04-15 00:00:45,833 DEBUG data_suffix = 
+2023-04-15 00:00:45,833 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-15 00:00:45,834 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:00:52,202 DEBUG doors_username = 123
+2023-04-15 00:00:52,202 DEBUG doors_password = 123
+2023-04-15 00:00:52,203 DEBUG doors_project_path = /213
+2023-04-15 00:00:52,203 DEBUG data_suffix = 
+2023-04-15 00:00:52,203 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-15 00:00:52,203 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:00:53,780 DEBUG doors_username = 123
+2023-04-15 00:00:53,781 DEBUG doors_password = 123
+2023-04-15 00:00:53,781 DEBUG doors_project_path = /213
+2023-04-15 00:00:53,781 DEBUG data_suffix = 
+2023-04-15 00:00:53,781 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-15 00:00:53,781 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:01:12,533 DEBUG doors_username = 123
+2023-04-15 00:01:12,533 DEBUG doors_password = 123
+2023-04-15 00:01:12,533 DEBUG doors_project_path = /213
+2023-04-15 00:01:12,533 DEBUG data_suffix = 
+2023-04-15 00:01:12,533 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-15 00:01:12,534 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:01:14,588 DEBUG doors_username = 123
+2023-04-15 00:01:14,588 DEBUG doors_password = 123
+2023-04-15 00:01:14,588 DEBUG doors_project_path = /213
+2023-04-15 00:01:14,588 DEBUG data_suffix = 
+2023-04-15 00:01:14,589 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-15 00:01:14,589 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:01:52,015 DEBUG doors_username = 123
+2023-04-15 00:01:52,016 DEBUG doors_password = 123
+2023-04-15 00:01:52,016 DEBUG doors_project_path = /213
+2023-04-15 00:01:52,016 DEBUG data_suffix = 
+2023-04-15 00:01:52,016 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-15 00:01:52,016 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:02:02,997 DEBUG doors_username = 123
+2023-04-15 00:02:02,997 DEBUG doors_password = 123
+2023-04-15 00:02:02,997 DEBUG doors_project_path = /
+2023-04-15 00:02:02,998 DEBUG data_suffix = 
+2023-04-15 00:02:02,998 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-15 00:02:02,998 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:02:12,766 DEBUG doors_username = 123
+2023-04-15 00:02:12,766 DEBUG doors_password = 123
+2023-04-15 00:02:12,767 DEBUG doors_project_path = /123
+2023-04-15 00:02:12,767 DEBUG data_suffix = 
+2023-04-15 00:02:12,767 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-15 00:02:12,767 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:04:11,135 DEBUG doors_username = 123
+2023-04-15 00:04:11,135 DEBUG doors_password = 123
+2023-04-15 00:04:11,135 DEBUG doors_project_path = /123
+2023-04-15 00:04:11,136 DEBUG data_suffix = 
+2023-04-15 00:04:11,136 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-15 00:04:11,136 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe
+2023-04-15 00:04:11,136 DEBUG batchserver_dxl_path = D:\MyPython\DoorsDataUpdater\temp_dxl.dxl
+2023-04-15 00:04:11,137 ERROR Doors路径无效
+2023-04-16 16:29:25,031 DEBUG doors_username = 123
+2023-04-16 16:29:25,032 DEBUG doors_password = 123
+2023-04-16 16:29:25,032 DEBUG doors_project_path = /123
+2023-04-16 16:29:25,032 DEBUG data_suffix = 
+2023-04-16 16:29:25,032 DEBUG data_file = D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json
+2023-04-16 16:29:25,032 DEBUG doors_exe_path = C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe

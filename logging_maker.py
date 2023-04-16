@@ -46,7 +46,7 @@ class MyLogger:
             # 创建 RotatingFileHandler，设置文件名、文件大小、保留文件数量和编码方式
             # handler = RotatingFileHandler('example.log', maxBytes=10*1024*1024, backupCount=5, encoding='utf-8')
             handler = RotatingFileHandler(log_file, maxBytes=10 * 1024 * 1024, backupCount=5,
-                                          encoding='utf-8')
+                                          encoding='utf - 8')
 
             # 设置日志输出格式
             formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')

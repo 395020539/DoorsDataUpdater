@@ -14,6 +14,8 @@ class MyConfig:
             self.doors_project_path, self.data_file, self.data_suffix \
             = self.read_config(mypath.config_path, mypath.app_dir, mypath.data_path)
         self.doors_exe_path = r'C:\Program Files (x86)\ibm\Rational\DOORS\9.5\bin\doors.exe'
+        print(f"doors_exe_path = \n{self.doors_exe_path}")
+        _MyLogger.log("debug", f"doors_exe_path = {self.doors_exe_path}")
 
 
     def read_config(self, config_path, app_dir, data_path):
@@ -62,7 +64,7 @@ class MyConfig:
             print("An error occurred:", e)
             _MyLogger.log("error", ("An error occurred:", e))
             error_flag = 1
-            error_message = "Update Data文件有误"
+            error_message = "请检查文件或路径"
 
         if self.doors_username == "" or not self.doors_username:
             error_flag = 1

@@ -1,7 +1,7 @@
 {
-    "doors_username": "",
-    "doors_password": "",
-    "project_name": "31231",
+    "doors_username": "123",
+    "doors_password": "123",
+    "project_name": "123",
     "data_suffix": "",
     "data_file": "D:/MyPython/DoorsDataUpdater/Data/data_json_mytest_mcp.json"
 }

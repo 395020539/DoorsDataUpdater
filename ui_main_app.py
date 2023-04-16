@@ -9,6 +9,7 @@ from configuration_reader import MyConfig, MyPath
 import json
 import time
 
+
 from DoorsDataUpdater import Ui_UIDoorsDataUpdater
 
 
@@ -33,9 +34,9 @@ class MyWindow(QMainWindow, Ui_UIDoorsDataUpdater):
         # 连接任务的 finished 信号到槽函数，恢复按钮
         self.worker.finished.connect(self.on_task_finished)
 
+        self.button_start.clicked.connect(self.worker.run)
         self.button_load.clicked.connect(self.load_cfg)
         self.button_save.clicked.connect(self.save_cfg)
-        self.button_start.clicked.connect(self.worker.run)
         self.ButtonBrowseDataFile.clicked.connect(self.select_data_file)
         self.pushButton_check.clicked.connect(self.check_config)
         self.checkBox_psw.stateChanged.connect(self.password_display)
@@ -61,10 +62,12 @@ class MyWindow(QMainWindow, Ui_UIDoorsDataUpdater):
     def show_about_dialog(self):
         # 创建应用程序说明框
         about_dialog = QMessageBox()
+        about_dialog.setIcon(QMessageBox.Information)
+        about_dialog.setText('Doors Data Update Tool')
         about_dialog.setWindowTitle('关于')
+        about_dialog.setStyleSheet("QMessageBox{min-width: 5000px;}")
 
         # 添加软件说明文本和网页链接
-        about_dialog.setText('Doors Data Update Tool')
         about_dialog.setInformativeText(
             "如果您有任何问题或建议，请发送电子邮件至"
             '<a href="mailto:zhengli.yang@boschhuayu-steering.com">zhengli.yang@boschhuayu-steering.com</a>'
@@ -76,25 +79,6 @@ class MyWindow(QMainWindow, Ui_UIDoorsDataUpdater):
                                      'V1.0 Beta 04/13/2023')
         about_dialog.setTextFormat(Qt.RichText)
         about_dialog.setTextInteractionFlags(Qt.TextBrowserInteraction)
-        about_dialog.setIcon(QMessageBox.Information)
-        # 调整窗口大小和布局
-        about_dialog.resize(1000, 800)
-        about_dialog.setMinimumSize(1000, 800)
-        about_dialog.setMaximumSize(1000, 800)
-        layout = QVBoxLayout(about_dialog)
-        layout.setSpacing(10)
-        layout.setContentsMargins(20, 20, 20, 20)
-        about_dialog.setLayout(layout)
-        # 设置样式表
-        style_sheet = """
-        QMessageBox QLabel {
-            font-size: 10pt;
-        }
-        QMessageBox QTextBrowser {
-            font-size: 10pt;
-        }
-        """
-        about_dialog.setStyleSheet(style_sheet)
 
         # 在网页链接上添加链接打开功能
         for text_browser in about_dialog.findChildren(QTextBrowser):
@@ -150,7 +134,7 @@ class MyWindow(QMainWindow, Ui_UIDoorsDataUpdater):
         except Exception as e:
             print("An error occurred:", e)
 
-        self.show_saved_dialog()
+        QMessageBox.information(self, "提示", "已保存！")
 
     def run_updater(self):
         print("run updater")
@@ -162,30 +146,55 @@ class MyWindow(QMainWindow, Ui_UIDoorsDataUpdater):
             self.lineEdit_data_file.setText(self.data_file)
 
     def on_task_started(self):
+        self.button_start.setStyleSheet("background-color: grey;border-radius: 10px;color: white")
         # 禁用按钮
         self.lineEdit_info.setText("正在运行中, 请耐心等待...请勿关闭程序")
         self.button_load.setDisabled(True)
         self.button_save.setDisabled(True)
         self.button_start.setDisabled(True)
         self.ButtonBrowseDataFile.setDisabled(True)
+        self.pushButton_check.setDisabled(True)
+        self.checkBox_psw.setDisabled(True)
 
         self.lineEdit_project_name.setDisabled(True)
         self.lineEdit_data_suffix.setDisabled(True)
         self.lineEdit_data_file.setDisabled(True)
+        self.lineEdit_username.setDisabled(True)
+        self.lineEdit_password.setDisabled(True)
 
         self.button_start.setText("正在运行")
 
+
     def on_task_finished(self):
-        QMessageBox.information(self, "提示", "操作已完成！")
-        # 恢复按钮
         self.lineEdit_info.setText("运行结束.")
+        QMessageBox.information(self, "提示", "更新结束！")
+        self.button_start.setStyleSheet(u"QPushButton {\n"
+                                        "    background-color: #4CAF50;\n"
+                                        "    border-radius: 10px;\n"
+                                        "    color: white;\n"
+                                        "}\n"
+                                        "\n"
+                                        "QPushButton:hover {\n"
+                                        "    background-color: #3E8E41;\n"
+                                        "}\n"
+                                        "\n"
+                                        "QPushButton:pressed {\n"
+                                        "    background-color: #2E6739;\n"
+                                        "}")
+
+        # 恢复按钮
         self.button_load.setEnabled(True)
         self.button_save.setEnabled(True)
         self.button_start.setEnabled(True)
         self.ButtonBrowseDataFile.setEnabled(True)
+        self.pushButton_check.setEnabled(True)
+        self.checkBox_psw.setEnabled(True)
+
         self.lineEdit_project_name.setEnabled(True)
         self.lineEdit_data_suffix.setEnabled(True)
         self.lineEdit_data_file.setEnabled(True)
+        self.lineEdit_username.setEnabled(True)
+        self.lineEdit_password.setEnabled(True)
 
         self.button_start.setText("开始更新")
 
@@ -194,16 +203,6 @@ class MyWindow(QMainWindow, Ui_UIDoorsDataUpdater):
         # self.thread.quit()
         # self.thread.wait()
 
-    def show_saved_dialog(self):
-        # 创建应用程序说明框
-        saved_dialog = QMessageBox()
-        saved_dialog.setWindowTitle('提示')
-
-        # 添加软件说明文本和网页链接
-        saved_dialog.setText('保存成功！')
-        saved_dialog.setInformativeText('请点击Load确认。')
-
-        saved_dialog.exec()
 
     def password_display(self):
         if self.checkBox_psw.isChecked():
@@ -215,19 +214,10 @@ class MyWindow(QMainWindow, Ui_UIDoorsDataUpdater):
         myconfig = MyConfig()
         error_flag, error_message = myconfig.check_my_config()
 
-        # 创建应用程序说明框
-        checked_info_dialog = QMessageBox()
-        checked_info_dialog.setWindowTitle('提示')
-
-        # 添加软件说明文本和网页链接
         if error_flag == 0:
-            checked_info_dialog.setText('检查通过！')
+            QMessageBox.information(self, "提示", "检查通过！")
         else:
-            checked_info_dialog.setText('检查不通过！')
-            checked_info_dialog.setInformativeText(error_message)
-
-        checked_info_dialog.exec()
-
+            QMessageBox.information(self, "提示", error_message)
 
 
 
@@ -247,17 +237,20 @@ class MyTask(QObject):
 
         mydxl = MyDxlCommand()
         mysender = DxlSender(mydxl.list_dxl_command)
-        # mysender.send_dxl_commands()
-        print("运行中")
-        time.sleep(5)
-        print("运行结束")
+        mysender.send_dxl_commands()
+        # print("运行中")
+        # time.sleep(5)
+        # print("运行结束")
 
         # 任务完成后发出 finished 信号
         self.finished.emit()
 
 
+
+
 if __name__ == '__main__':
     app = QApplication([])
+    app.setStyle("Fusion")
     window = MyWindow()
     window.show()
     app.exec()
